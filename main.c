@@ -22,6 +22,7 @@ int main() {
 
 typedef enum {A, B, ZERO, AB} GS;
 //definizione strutture
+//...
 typedef struct{
     int eta;
     float peso;
